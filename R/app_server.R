@@ -6,5 +6,5 @@
 #' @noRd
 app_server <- function(input, output, session ) {
   # Your application server logic 
-  
+  mod_name_of_module_1_server("name_of_module_1_ui_1")
 }
